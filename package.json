@@ -1,0 +1,20 @@
+{
+  "name": "gadgetlove",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanIgnacioPerez/GadgetLove.git"
+  },
+  "author": "Juan Ignacio Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanIgnacioPerez/GadgetLove/issues"
+  },
+  "homepage": "https://github.com/JuanIgnacioPerez/GadgetLove#readme"
+}
